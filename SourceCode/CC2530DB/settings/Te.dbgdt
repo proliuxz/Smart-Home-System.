@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>205</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+    <Find-in-Files><ColumnWidth0>525</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29497-2395</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28974-2405</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-5098-173</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7477-2398</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Te</ExpandedNode><ExpandedNode>Te/App</ExpandedNode><ExpandedNode>Te/HAL</ExpandedNode><ExpandedNode>Te/HAL/Common</ExpandedNode><ExpandedNode>Te/HAL/Include</ExpandedNode><ExpandedNode>Te/HAL/Target</ExpandedNode><ExpandedNode>Te/HAL/Target/CC2530EB</ExpandedNode><ExpandedNode>Te/HAL/Target/CC2530EB/Includes</ExpandedNode><ExpandedNode>Te/MT</ExpandedNode><ExpandedNode>Te/NWK</ExpandedNode><ExpandedNode>Te/OSAL</ExpandedNode><ExpandedNode>Te/Output</ExpandedNode><ExpandedNode>Te/Profile</ExpandedNode><ExpandedNode>Te/Security</ExpandedNode><ExpandedNode>Te/Services</ExpandedNode><ExpandedNode>Te/Tools</ExpandedNode><ExpandedNode>Te/ZDO</ExpandedNode><ExpandedNode>Te/ZMac</ExpandedNode><ExpandedNode>Te/ZMain</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18226-2402</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01598950><key>iaridepm.enu1</key></Toolbar-01598950></Sizes></Row0><Row1><Sizes><Toolbar-0677d758><key>debuggergui.enu1</key></Toolbar-0677d758></Sizes></Row1></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>849</Bottom><Right>296</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>232813</sizeVertCX><sizeVertCY>897679</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>849</Bottom><Right>31</Right><x>-2</x><y>-2</y><xscreen>0</xscreen><yscreen>0</yscreen><sizeHorzCX>0</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>897679</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>30</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>0</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>0</sizeHorzCY><sizeVertCX>0</sizeVertCX><sizeVertCY>0</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

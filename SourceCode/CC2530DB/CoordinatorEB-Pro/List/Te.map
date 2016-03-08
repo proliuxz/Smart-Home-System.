@@ -1,0 +1,1 @@
+Error[e27]: Entry "GenericApp_Init::?relay" in module Coordinator ( D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Te\CC2530DB\CoordinatorEB-Pro\Obj\Coordinator.r51 ) redefined in module Enddevice ( D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Te\CC2530DB\CoordinatorEB-Pro\Obj\Enddevice.r51 )

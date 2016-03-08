@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>Te/EndDeviceEB</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>173</Column0><Column1>27</Column1><Column2>27</Column2><Column3>14677140</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>515</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+    <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Tool-Output</Factory></Window></Windows></PreferedWindows></Debug-Log><TerminalIO/><Find-in-Files><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Tool-Output</Factory></Window></Windows></PreferedWindows><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><Tool-Output/><SourceBrowser/></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19918-25722</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Te</ExpandedNode><ExpandedNode>Te/App</ExpandedNode><ExpandedNode>Te/HAL</ExpandedNode><ExpandedNode>Te/Security</ExpandedNode><ExpandedNode>Te/Services</ExpandedNode><ExpandedNode>Te/Tools</ExpandedNode><ExpandedNode>Te/ZMac</ExpandedNode></NodeDict></Session>
+          </Tab>
+        <Tab><Identity>TabID-23409-21419</Identity><TabName>Source Browser</TabName><Factory>SourceBrowser</Factory><Session><TypeFilter>2147483647</TypeFilter><FileFilter>1</FileFilter></Session></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-13644-20988</Identity><TabName>Tool Output</TabName><Factory>Tool-Output</Factory><Session/></Tab><Tab><Identity>TabID-14152-32555</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd3><Wnd4><Tabs><Tab><Identity>TabID-4882-21971</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\mt\MT_TASK.c</Filename><XPos>0</XPos><YPos>270</YPos><SelStart>5617</SelStart><SelEnd>5617</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\stack\zdo\ZDApp.c</Filename><XPos>0</XPos><YPos>1834</YPos><SelStart>51331</SelStart><SelEnd>51331</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\OnBoard.c</Filename><XPos>0</XPos><YPos>141</YPos><SelStart>4405</SelStart><SelEnd>4405</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\include\hal_board.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\include\hal_ccm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\include\hal_drivers.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\include\hal_adc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\COMPONENTS\hal\include\hal_flash.h</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\include\hal_assert.h</Filename><XPos>0</XPos><YPos>72</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\target\CC2530EB\hal_board_cfg.h</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>16104</SelStart><SelEnd>16104</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\common\hal_assert.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\include\hal_lcd.h</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\common\hal_drivers.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3\8051\inc\ioCC2530.h</Filename><XPos>0</XPos><YPos>147</YPos><SelStart>6260</SelStart><SelEnd>6260</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Te\Source\Coordinator.c</Filename><XPos>0</XPos><YPos>169</YPos><SelStart>2088</SelStart><SelEnd>2088</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Te\Source\OSAL_Te.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>198</SelStart><SelEnd>198</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\OnBoard.h</Filename><XPos>0</XPos><YPos>282</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\COMPONENTS\hal\target\CC2530EB\hal_mac_cfg.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1923</SelStart><SelEnd>1923</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\stack\sec\ssp.h</Filename><XPos>0</XPos><YPos>240</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\stack\sec\ssp_hash.h</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\services\saddr\saddr.c</Filename><XPos>0</XPos><YPos>185</YPos><SelStart>6507</SelStart><SelEnd>6507</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\services\saddr\saddr.h</Filename><XPos>0</XPos><YPos>117</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Components\hal\include\hal_led.h</Filename><XPos>0</XPos><YPos>99</YPos><SelStart>847</SelStart><SelEnd>847</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Te\Source\Common.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>218</SelStart><SelEnd>218</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>298</YPos><SelStart>4645</SelStart><SelEnd>4645</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Te\Source\gm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Texas Instruments\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\Samples\Te\Source\Enddevice.c</Filename><XPos>0</XPos><YPos>75</YPos><SelStart>3213</SelStart><SelEnd>3213</SelEnd></Tab><ActiveTab>26</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01598998><key>iaridepm.enu1</key></Toolbar-01598998></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>564</Bottom><Right>264</Right><x>-2</x><y>-2</y><xscreen>-2748673</xscreen><yscreen>-2035708</yscreen><sizeHorzCX>-2147400780</sizeHorzCX><sizeHorzCY>-2147371307</sizeHorzCY><sizeVertCX>207813</sizeVertCX><sizeVertCY>597046</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>141</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>143</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>150844</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>210970</sizeVertCY></Rect></Wnd3></Sizes></Row0><Row1><Sizes><Wnd4><Rect><Top>139</Top><Left>-2</Left><Bottom>339</Bottom><Right>1282</Right><x>-2</x><y>139</y><xscreen>1284</xscreen><yscreen>200</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>210970</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>210970</sizeVertCY></Rect></Wnd4></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
